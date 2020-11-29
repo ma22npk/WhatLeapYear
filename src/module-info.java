@@ -1,0 +1,2 @@
+module uruudoshi_hantei {
+}
